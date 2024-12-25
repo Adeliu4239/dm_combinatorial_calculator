@@ -2,7 +2,26 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+First, clone the repository:
+
+```bash
+git clone https://github.com/Adeliu4239/dm_combinatorial_calculator.git
+cd dm_combinatorial_calculator
+```
+
+Then, install the dependencies:
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
+
+Next, run the development server:
 
 ```bash
 npm run dev
@@ -16,9 +35,16 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Project Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Combinatorial Calculations**: Calculate permutations, combinations, and other combinatorial problems.
+- **Responsive Design**: The application is fully responsive and works on all devices.
+- **Modern UI**: Built with Next.js and NextUI for a sleek and modern user interface.
+<!-- - **Dark Mode**: Toggle between light and dark themes.(wai) -->
+
+## Demo
+
+Check out the live demo of the project [here](https://github.com/Adeliu4239/dm_combinatorial_calculator).
 
 ## Learn More
 
