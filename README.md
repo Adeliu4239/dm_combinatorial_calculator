@@ -44,7 +44,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Demo
 
-Check out the live demo of the project [here](https://github.com/Adeliu4239/dm_combinatorial_calculator).
+Check out the live demo of the project [here](https://dm-combinatorial-calculator.vercel.app/).
 
 ## Learn More
 
