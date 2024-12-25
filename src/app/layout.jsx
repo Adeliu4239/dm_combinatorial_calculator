@@ -32,7 +32,7 @@ export default function RootLayout({ children }) {
           <div className="bg-gray-50 h-full">
             <NavBar />
             <hr className="border-t border-gray-200" />
-            <main className="container mx-auto max-w-7xl px-6 flex-grow pt-16">
+            <main className="container mx-auto max-w-7xl px-6 flex-grow pt-4">
               {children}
             </main>
             <hr className="border-t border-gray-200" />

@@ -6,10 +6,10 @@ export const siteConfig = {
         label: "Home",
         href: "/",
       },
-      {
-        label: "About",
-        href: "/about",
-      },
+      // {
+      //   label: "About",
+      //   href: "/about",
+      // },
     ],
     navMenuItems: [
       {
@@ -18,6 +18,6 @@ export const siteConfig = {
       },
     ],
     links: {
-      github: "https://github.com/nextui-org/nextui",
+      github: "https://github.com/Adeliu4239/dm_combinatorial_calculator",
     },
   };
