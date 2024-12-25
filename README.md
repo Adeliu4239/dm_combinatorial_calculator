@@ -38,9 +38,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Project Features
 
 - **Combinatorial Calculations**: Calculate permutations, combinations, and other combinatorial problems.
+- **Number Theory Calculations**: Calculate Catalan numbers, triangular numbers, harmonic numbers, Fibonacci numbers, and Lucas numbers.
+- **Eulerian Numbers**: Calculate Eulerian numbers and their sequences.
+- **Stirling Numbers**: Calculate Stirling numbers of the first and second kind.
 - **Responsive Design**: The application is fully responsive and works on all devices.
 - **Modern UI**: Built with Next.js and NextUI for a sleek and modern user interface.
-<!-- - **Dark Mode**: Toggle between light and dark themes.(wai) -->
 
 ## Demo
 

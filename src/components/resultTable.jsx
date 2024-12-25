@@ -38,23 +38,11 @@ export default function ResultTable({
   nPowerR,
   cStarsAndBars,
 }) {
-  const [result, setResult] = useState(0);
-  const [showResult, setShowResult] = useState(false);
-
-  const calculate = () => {
-    console.log("Calculating...");
-    setResult(1);
-  };
 
   return (
-    <div className="flex flex-col items-center justify-center gap-4">
-      <Table aria-label="Example static collection table">
+    <div className="flex flex-col items-center justify-center gap-4 w-full px-24">
+      <Table aria-label="Example static collection table" className="w-full">
         <TableHeader>
-          {/* <TableColumn>Formula</TableColumn>
-          <TableColumn>Caculation Result</TableColumn>
-          <TableColumn>{"Distinct Objects (m)"}</TableColumn>
-          <TableColumn>{"Distinct Containers (n)"}</TableColumn>
-          <TableColumn>Some Empty Containers</TableColumn> */}
           <TableColumn>Formula</TableColumn>
           <TableColumn>Caculation Result</TableColumn>
           <TableColumn>Order Relevant</TableColumn>
